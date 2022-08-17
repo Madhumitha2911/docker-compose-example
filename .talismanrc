@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: nginx/nginx.conf
+  checksum: ab31c5bb7c9e2688bc46c890e040b553e71825110102ea5889bb898cd6edf219
+- filename: web/package-lock.json
+  checksum: a8b4dd861859a77011cbcfcffde6aa553bb4a3733a166a83d4e9760a563f8a48
+version: "1.0"
